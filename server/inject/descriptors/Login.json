@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "is_Login": {
+      "type": "identifier",
+      "selector": "[name=\"log_in\"]",
+      "control": "attrib.src"
+    }
+  },
+  "connect": []
+}
