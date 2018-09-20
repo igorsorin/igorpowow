@@ -3,8 +3,8 @@
   "properties": {
     "is_Login": {
       "type": "identifier",
-      "selector": "[name=\"log_in\"]",
-      "control": "exists"
+      "control": "exists",
+      "selector": "[name=\"login_form\"]"
     }
   },
   "connect": []
