@@ -4,7 +4,7 @@
     "is_Login": {
       "type": "identifier",
       "selector": "[name=\"log_in\"]",
-      "control": "attrib.src"
+      "control": "exists"
     }
   },
   "connect": []
