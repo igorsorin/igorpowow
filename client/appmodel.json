@@ -42,5 +42,19 @@
         }
       }
     }
+  },
+  "Login": {
+    "type": "object",
+    "properties": {
+      "password": {
+        "type": "string"
+      },
+      "username": {
+        "type": "string"
+      },
+      "submit": {
+        "type": "action"
+      }
+    }
   }
 }
