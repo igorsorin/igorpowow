@@ -9,7 +9,7 @@
     "password": {
       "type": "string",
       "selector": "[name=\"psswd\"]",
-      "control": "property.innerText"
+      "control": "property.Text"
     },
     "username": {
       "type": "string",
