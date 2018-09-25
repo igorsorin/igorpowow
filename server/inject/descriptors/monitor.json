@@ -8,7 +8,7 @@
     },
     "demo1": {
       "type": "string",
-      "selector": "#monitor",
+      "selector": "table",
       "control": "property.innerHTML"
     }
   },
