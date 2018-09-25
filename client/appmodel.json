@@ -86,5 +86,13 @@
         "label": "ListItems"
       }
     }
+  },
+  "monitor": {
+    "type": "object",
+    "properties": {
+      "demo1": {
+        "type": "string"
+      }
+    }
   }
 }

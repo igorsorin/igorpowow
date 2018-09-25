@@ -33,7 +33,7 @@
       "name": "TableData-Classic",
       "sourceScreenId": "app.tableview.tabledataclassic",
       "sourceAppId": "universaltemplates",
-      "model": "tabledataclassic"
+      "model": "monitor"
     }
   ],
   "sourceAppId": "_blank",
