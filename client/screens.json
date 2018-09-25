@@ -27,6 +27,13 @@
       "sourceScreenId": "app.login.logincaptivating",
       "sourceAppId": "universaltemplates",
       "model": "Login"
+    },
+    {
+      "id": "tabledataclassic",
+      "name": "TableData-Classic",
+      "sourceScreenId": "app.tableview.tabledataclassic",
+      "sourceAppId": "universaltemplates",
+      "model": "tabledataclassic"
     }
   ],
   "sourceAppId": "_blank",
