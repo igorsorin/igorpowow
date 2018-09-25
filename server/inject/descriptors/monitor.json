@@ -18,8 +18,9 @@
         "is_monitor"
       ],
       "screens": [
-        "tabledataclassic"
-      ]
+        "tabledatacaptivating"
+      ],
+      "model": "monitor"
     }
   ]
 }
