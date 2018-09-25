@@ -15,12 +15,17 @@
   "connect": [
     {
       "match": [
+        "is_monitor",
         "is_monitor"
       ],
       "screens": [
         "tabledatacaptivating"
       ],
       "model": "monitor"
+    },
+    {
+      "match": [],
+      "event": "monitor"
     }
   ]
 }
