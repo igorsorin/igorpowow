@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "is_monitor": {
+      "type": "identifier",
+      "selector": "#monitor",
+      "control": "exists"
+    },
+    "demo1": {
+      "type": "string",
+      "selector": "#monitor",
+      "control": "property.innerHTML"
+    }
+  },
+  "connect": []
+}
