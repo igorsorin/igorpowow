@@ -34,6 +34,13 @@
       "sourceScreenId": "app.tableview.tabledataclassic",
       "sourceAppId": "universaltemplates",
       "model": "monitor"
+    },
+    {
+      "id": "tabledatacaptivating",
+      "name": "TableData-Captivating",
+      "sourceScreenId": "app.tableview.tabledatacaptivating",
+      "sourceAppId": "universaltemplates",
+      "model": "tabledatacaptivating"
     }
   ],
   "sourceAppId": "_blank",
