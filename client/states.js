@@ -42,15 +42,6 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.tabledataclassic', {
-        views: {
-            app: {
-                controller: 'app_tabledataclassic',
-                templateProvider: function (app) {
-                    return app.templateProvider('app.tabledataclassic');
-                }
-            }
-        }
     }).state('app.tabledatacaptivating', {
         views: {
             app: {

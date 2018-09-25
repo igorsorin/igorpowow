@@ -30,13 +30,6 @@
       "model": "Login"
     },
     {
-      "id": "tabledataclassic",
-      "name": "TableData-Classic",
-      "sourceScreenId": "app.tableview.tabledataclassic",
-      "sourceAppId": "universaltemplates",
-      "model": "monitor"
-    },
-    {
       "id": "tabledatacaptivating",
       "name": "TableData-Captivating",
       "sourceScreenId": "app.tableview.tabledatacaptivating",
